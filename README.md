@@ -1,0 +1,59 @@
+# Hiatus Kaiyote – Nakamarra
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:17.84] Hannah, my darling
+[00:20.28] I will follow you into the sunrise under desert sky
+[00:28.01] We fly, rise together with our hearts
+[00:32.07] Upon our sleeves for all to see
+[00:37.19] We two will breathe, aqua queen
+[00:39.92] Though vast distance between us, heart sails with love
+[00:45.27] For you, I love you, I love you, I do
+[00:53.99] Love you, I love you, I love you, I do
+[01:03.04] Nakamarra, sweet red earth
+[01:06.74] Will hold you like the strength you bless to me
+[01:11.57] True, we engage humility
+[01:14.71] Watch me struggle with your words
+[01:17.12] However truthful they may be
+[01:22.19] We'll see in time, opening our hearts
+[01:25.65] And nurturing our minds to shine
+[01:29.72] I love you, love you, I love you, I do
+[01:39.22] Love you, I love you, I love you, I do
+[01:48.01] Oh, it sets our hearts to fire, sweeps you and I
+[01:55.09] Honey don't you, know
+[01:56.87] It sets our heart to fire, sweeps you and I
+[02:02.69] Honey don't you, know
+[02:04.64] We two will pulse in through this light
+[02:10.73] Honey don't you, know, we two will pulse
+[02:15.24] I'll always love you (yeah-yeah-yeah-yeah-yeah)
+[02:19.67] Love you (yeah-yeah-yeah-yeah-yeah)
+[02:22.25] Love you, I do
+[02:25.45] Love you (yeah-yeah-yeah-yeah-yeah)
+[02:27.94] Love you (yeah-yeah-yeah-yeah-yeah)
+[02:30.51] Love you, I do
+[02:33.72] Hannah, my darling
+[02:36.37] I will follow you into the sunrise under desert sky
+[02:43.93] We fly, rise together with our hearts
+[02:48.04] Upon our sleeves for all to see
+[02:53.08] We two will breathe, aqua queen
+[02:55.75] Though vast distance between us, heart sails with love
+[03:01.20] For you, I love you, I love you, I do
+[03:10.20] Love you, I love you, I love you, I do
+[03:18.93] Oh, it sets our hearts to fire, sweeps you and I
+[03:26.00] Honey don't you, know
+[03:27.67] It sets our heart to fire, sweeps you and I
+[03:33.66] Honey don't you, know
+[03:35.46] We two will pulse love in through this light
+[03:41.57] Honey don't you, know, we two will pulse
+[03:46.06] I'll always love you (yeah-yeah-yeah-yeah-yeah)
+[03:50.59] Love you (yeah-yeah-yeah-yeah-yeah)
+[03:53.12] Love you, I do
+[03:56.37] Love you (yeah-yeah-yeah-yeah-yeah)
+[03:58.95] Love you (yeah-yeah-yeah-yeah-yeah)
+[04:01.53] Love you, I do
+[04:06.39] Yeah-yeah-yeah-yeah-yeah, yeah-hey
+[04:10.26] Yeah-yeah-yeah-yeah-yeah, yeah-hey
+[04:17.56] Yeah-yeah-yeah-yeah-yeah, yeah-hey
+[04:21.38] Yeah-yeah-yeah-yeah-yeah, yeah-hey
+```
