@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Nakamarra",
+  "base_artist": "Hiatus Kaiyote",
+  "createdAt": "2026-03-08T06:47:46.071336Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nakamarra",
+      "artist": "Hiatus Kaiyote",
+      "has_synced": true,
+      "path": "select/01_Nakamarra_Hiatus_Kaiyote.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nakamarra (feat. Q-Tip)",
+      "artist": "Hiatus Kaiyote feat. Q-Tip",
+      "has_synced": true,
+      "path": "select/02_Nakamarra_(feat._Q-Tip)_Hiatus_Kaiyote_feat._Q-Tip.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nakamarra (feat. Q-Tip)",
+      "artist": "Hiatus Kaiyote",
+      "has_synced": true,
+      "path": "select/03_Nakamarra_(feat._Q-Tip)_Hiatus_Kaiyote.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nakamarra feat. Q‐Tip",
+      "artist": "Hiatus Kaiyote",
+      "has_synced": true,
+      "path": "select/04_Nakamarra_feat._Q‐Tip_Hiatus_Kaiyote.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nakamarra",
+      "artist": "Hiatus Kaiyote",
+      "has_synced": true,
+      "path": "select/05_Nakamarra_Hiatus_Kaiyote.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nakamarra (Rox N Stix Desert Mix)",
+      "artist": "Hiatus Kaiyote",
+      "has_synced": false,
+      "path": "select/06_Nakamarra_(Rox_N_Stix_Desert_Mix)_Hiatus_Kaiyote.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nakamarra (Kirkis' Glitchbitch Remix)",
+      "artist": "Kirkis",
+      "has_synced": false,
+      "path": "select/07_Nakamarra_(Kirkis'_Glitchbitch_Remix)_Kirkis.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nakamarra",
+      "artist": "Hiatus Kaiyote featuring Q‐Tip",
+      "has_synced": true,
+      "path": "select/08_Nakamarra_Hiatus_Kaiyote_featuring_Q‐Tip.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rainbow Rhodes / Nakamarra",
+      "artist": "Hiatus Kaiyote",
+      "has_synced": false,
+      "path": "select/09_Rainbow_Rhodes___Nakamarra_Hiatus_Kaiyote.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nakamarra",
+      "artist": "Hiatus Kaiyote feat. Q‐Tip",
+      "has_synced": true,
+      "path": "select/10_Nakamarra_Hiatus_Kaiyote_feat._Q‐Tip.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nakamarra(Rox N Stix Desert Mix)",
+      "artist": "Hiatus Kaiyote",
+      "has_synced": false,
+      "path": "select/11_Nakamarra(Rox_N_Stix_Desert_Mix)_Hiatus_Kaiyote.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rainbow Rhodes/Nakamarra (live in Revolt)",
+      "artist": "Hiatus Kaiyote",
+      "has_synced": false,
+      "path": "select/12_Rainbow_Rhodes_Nakamarra_(live_in_Revolt)_Hiatus_Kaiyote.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nakamarra",
+      "artist": "Hiatus Kaiyote",
+      "has_synced": true,
+      "path": "select/13_Nakamarra_Hiatus_Kaiyote.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Nakamarra",
+      "artist": "Hiatus Kaiyote, Q-Tip",
+      "has_synced": true,
+      "path": "select/14_Nakamarra_Hiatus_Kaiyote,_Q-Tip.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Nakamarra",
+      "artist": "Hiatus Kaiyote",
+      "has_synced": true,
+      "path": "select/15_Nakamarra_Hiatus_Kaiyote.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rainbow Rhodes / Nakamarra (Live)",
+      "artist": "Hiatus Kaiyote",
+      "has_synced": false,
+      "path": "select/16_Rainbow_Rhodes___Nakamarra_(Live)_Hiatus_Kaiyote.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Nakamarra (feat. Q-Tip) (feat. Q-Tip)",
+      "artist": "Hiatus Kaiyote",
+      "has_synced": true,
+      "path": "select/17_Nakamarra_(feat._Q-Tip)_(feat._Q-Tip)_Hiatus_Kaiyote.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Rainbow Rhodes / Nakamarra (Live In Revolt)",
+      "artist": "Hiatus Kaiyote",
+      "has_synced": false,
+      "path": "select/18_Rainbow_Rhodes___Nakamarra_(Live_In_Revolt)_Hiatus_Kaiyote.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Nakamarra",
+      "artist": "Hiatus Kaiyote",
+      "has_synced": true,
+      "path": "select/19_Nakamarra_Hiatus_Kaiyote.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nakamarra",
+      "artist": "Hiatus Kaiyote",
+      "has_synced": false,
+      "path": "select/pl_01_Nakamarra_Hiatus_Kaiyote.txt"
+    }
+  ]
+}
